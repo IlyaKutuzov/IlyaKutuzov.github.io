@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: Ilya Kutuzov
 description: PhD candidate at the Hebrew University of Jerusalem
-url: /https://earth.huji.ac.il/
-zip_url: http://example.com/download.zip
+logo: https://img.ksp.co.il/item/58427/b_1.jpg
+show_downloads: false
