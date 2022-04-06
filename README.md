@@ -23,9 +23,11 @@ I currate the national collection of minerals at HUJI (do we have a link?)
 ### *Saving Ayalon cave*
 Was invited to speak at the Ministry
 ![ayalon cave](/assets/images/Ayalontest.jpg )
+Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
 Originally ignored by the Ministry of wildlife protection but eventually acknowldeged
 [Report](https://www.haaretz.co.il/embeds/pdf_upload/2021/20210227-220247.pdf)
+Photo from Haaretz
 ### *Study of an oil spill in arid condition*
 Helped guide a student for masters
 ![Evrona](/assets/images/Evrona.jpg )
