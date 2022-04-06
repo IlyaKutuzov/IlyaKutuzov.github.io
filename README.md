@@ -20,7 +20,7 @@ I am an active member of the Israeli Cave Research Center ([ICRC](https://www.ma
 I currate the national collection of minerals at HUJI (do we have a link?)
 
 ## Achievments and things I am proud of
-### <u>*Saving Ayalon cave*</u>
+### *Saving Ayalon cave*
 Was invited to speak at the Ministry
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
