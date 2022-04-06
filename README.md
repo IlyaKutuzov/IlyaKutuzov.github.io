@@ -17,6 +17,7 @@ I am interested in the role organic sulfur compounds play in preservation of org
 
 ## Other interests
 I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
+I currate the national collection of minerals at HUJI (do we have a link?)
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
