@@ -3,7 +3,7 @@
 My Research focuses on organic compounds in the geosphere and the use of stable sulfur isotopes to better understand the sulfur and carbon cycle in the subsurface.
 I am interested in the role organic sulfur compounds play in preservation of organic matter and subsequent cracking of kerogen under thermal stress conditions.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://en.earth.huji.ac.il/sites/default/files/styles/profile_full/public/earthen/files/photo_for_website.png?m=1611999105&itok=QoLwPqaW)
 
 ## Research interests
 
