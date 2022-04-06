@@ -28,3 +28,4 @@ Originally ignored by the Ministry of wildlife protection but eventually acknowl
 [Report](https://www.haaretz.co.il/embeds/pdf_upload/2021/20210227-220247.pdf)
 ### *Study of an oil spill in arid condition*
 Helped guide a student for masters
+![Evrona](/assets/images/Evrona.jpg )
