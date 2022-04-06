@@ -1,8 +1,7 @@
 ## About
 
-You can use the [editor on GitHub](https://github.com/IlyaKutuzov/IlyaKutuzov.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My Research focuses on organic compounds in the geosphere and the use of stable sulfur isotopes to better understand the sulfur and carbon cycle in the subsurface.
+I am interested in the role organic sulfur compounds play in preservation of organic matter and subsequent cracking of kerogen under thermal stress conditions.
 
 ## Research interests
 
