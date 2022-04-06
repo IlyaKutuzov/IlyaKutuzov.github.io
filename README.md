@@ -27,6 +27,7 @@ Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
 Originally ignored by the Ministry of wildlife protection but eventually acknowldeged
 [Report](https://www.haaretz.co.il/embeds/pdf_upload/2021/20210227-220247.pdf)
+![Haaretz](https://img.haarets.co.il/img/1.9553108/609573412.jpg)
 Photo from Haaretz
 ### *Study of an oil spill in arid condition*
 Helped guide a student for masters
