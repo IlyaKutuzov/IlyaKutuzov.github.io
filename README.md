@@ -22,7 +22,7 @@ I currate the national collection of minerals at HUJI (do we have a link?)
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
 Was invited to speak at the Ministry
-![ayalon cave](IlyaKutuzov.github.io/assets/images/Ayalontest.jpg )
+![ayalon cave](/assets/images/Ayalontest.jpg )
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
 Originally ignored by the Ministry of wildlife protection but eventually acknowldeged
 [Report](https://www.haaretz.co.il/embeds/pdf_upload/2021/20210227-220247.pdf)
