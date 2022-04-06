@@ -19,7 +19,10 @@ I am interested in the role organic sulfur compounds play in preservation of org
 I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
-* Ayalon cave- Was invited to speak at the Ministry
-* Tar case- Originally ignored by the Ministry of wildlife protection but eventually acknowldeged
+##### Ayalon cave
+Was invited to speak at the Ministry
+##### Tar case
+Originally ignored by the Ministry of wildlife protection but eventually acknowldeged
 [Report](https://www.haaretz.co.il/embeds/pdf_upload/2021/20210227-220247.pdf)
-* Evrona project- Helped guide a student for masters
+##### Evrona project
+Helped guide a student for masters
