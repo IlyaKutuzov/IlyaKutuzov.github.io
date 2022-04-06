@@ -3,6 +3,8 @@
 My Research focuses on organic compounds in the geosphere and the use of stable sulfur isotopes to better understand the sulfur and carbon cycle in the subsurface.
 I am interested in the role organic sulfur compounds play in preservation of organic matter and subsequent cracking of kerogen under thermal stress conditions.
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Research interests
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
