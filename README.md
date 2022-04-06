@@ -31,6 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Publications
 * test1
+* **I. Kutuzov**, Y.O. Rosenberg, A. Bishop, A. Amrani: *The origin of organic sulphur compounds and their impact on the paleoenvironmental record*. In: Wilkes H. (eds) Hydrocarbons, Oils and Lipids: Diversity, Origin, Chemistry and Fate. Handbook of Hydrocarbon and Lipid Microbiology. Springer. 2019. [DOI](https://doi.org/10.1007/978-3-319-54529-5_1-1)
 * Y.O. Rosenberg, **I. Kutuzov**, A. Amrani: *Sulfurization as a preservation mechanisem for the δ13C of biomarkers*. Organic Geochemistry, 125, 66-69, 2018. [DOI](https://doi.org/10.1016/j.orggeochem.2018.08.010)
 * C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
