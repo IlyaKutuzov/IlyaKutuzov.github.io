@@ -31,7 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Publications
 * test1
-* C. Gruber, I.Kutuzov, J.Ganor: The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[https://doi.org/10.1016/j.gca.2016.04.046] (https://doi.org/10.1016/j.gca.2016.04.046)
+* C. Gruber, **I.Kutuzov**, J.Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ### Other interests
 
