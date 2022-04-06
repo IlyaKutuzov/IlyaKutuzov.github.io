@@ -31,7 +31,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Publications
 * test1
-* C. Gruber, **I.Kutuzov**, J.Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
+* Y.O. Rosenberg, **I. Kutuzov**, A. Amrani: *Sulfurization as a preservation mechanisem for the δ13C of biomerkers*. Organic Geochemistry, 125, 66-69, 2018. [DOI](https://doi.org/10.1016/j.orggeochem.2018.08.010)
+* C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ### Other interests
 
