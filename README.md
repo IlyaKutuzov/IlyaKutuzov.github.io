@@ -36,8 +36,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 * C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ### Other interests
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I am an active member of the Israeli Cave Research Center ( [ICRC](https://www.malham.info/) )
 
 ### Social and contact
 I am available on [Linkedin](http://www.linkedin.com/in/ilya-kutuzov-5597141b8) and [Twitter](https://twitter.com/geokutuzov)
