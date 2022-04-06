@@ -16,8 +16,7 @@ I am interested in the role organic sulfur compounds play in preservation of org
 * C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ## Other interests
-I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
-I am the manager of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en))
+I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))  I am the manager of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en))
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
