@@ -7,9 +7,8 @@ My CV is available HERE (link), Contact me at ilya.kutuzov@mail.huji.ac.il
 ## Research interests
 My main interests are:
 - The sulfur and carbon cycles in the subsurface from processes during diagenesis of organic matter up to formation of sulfur-compounds during catagenesis and cracking of fossilized organic matter.
-- 
-My Research focuses on organic compounds in the geosphere and the use of stable sulfur isotopes to better understand the sulfur and carbon cycle in the subsurface.
-I am interested in the role organic sulfur compounds play in preservation of organic matter and subsequent cracking of kerogen under thermal stress conditions.
+- Transport of pollutants from oil spills to soil, ground water and their interactions with the mineral phase.
+- Source rocks in the Southern Levant region- Many oil and gas occurences in the area are yet to be linked to their source rocks. Identification of source rocks in the area is of major importance for reconstraction of paleoenvironmental conditions on land and at the deposition basin.
 
 ## Publications
 * **I. Kutuzov**, W. Said-Ahmad, C. Turich, C. Jiang, N. Luu, T. Jacksier, A. Amrani; *The molecular and sulfur isotope distribution of volatile compounds in natural gases and condensates from Alberta, Canada*. Organic Geochemistry, 151, 104129, 2021. [DOI](https://doi.org/10.1016/j.orggeochem.2020.104129)
