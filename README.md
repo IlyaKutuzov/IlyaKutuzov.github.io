@@ -1,11 +1,13 @@
 ## About
+I am a PhD candidte at the Hebrew University of Jerusalem. My PhD project focuses on volatile organic sulfur compounds (VOSC)- these compounds occur naturally in natural gas and are known to degrade the gas/petroleum quality and pose a heatlh risk to exposed workers and nearby communities. Often, these sulfur compounds are accompanied by H<sub>2</sub>S which is highly poisonus, corrosive and explosive.<br/>
+The aims of my project are to identify the various VOSC in natural gases, understand their pathways of formation and possible sinks and finally, provide a VOSC-based-proxy for H<sub>2</sub>S presence and sources within a given reservoir, or even basin.
 
-
-
-![This is an image](https://en.earth.huji.ac.il/sites/default/files/styles/profile_full/public/earthen/files/photo_for_website.png?m=1611999105&itok=QoLwPqaW)
+My CV is available HERE (link), Contact me at ilya.kutuzov@mail.huji.ac.il
 
 ## Research interests
-
+My main interests are:
+- The sulfur and carbon cycles in the subsurface from processes during diagenesis of organic matter up to formation of sulfur-compounds during catagenesis and cracking of fossilized organic matter.
+- 
 My Research focuses on organic compounds in the geosphere and the use of stable sulfur isotopes to better understand the sulfur and carbon cycle in the subsurface.
 I am interested in the role organic sulfur compounds play in preservation of organic matter and subsequent cracking of kerogen under thermal stress conditions.
 
