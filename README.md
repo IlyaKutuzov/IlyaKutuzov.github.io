@@ -21,7 +21,7 @@ I manage of the Mineralogy and Petrology collection at the National Natural Hist
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
-I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) .
+In early 2022 I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) as part of a scientific panel regarding the importance of the Ayalon cave. My presentation focused on the risks faced by the local aquifer due to introduction of organic-contaminants and changing of the aquifer redox state- both of which were expected to occur due to proposed construction of a railroad line. The joint scientific effort led changes in the original construction plan and the formation of a long-term monitoring project at the cave and surrounding aquifer.
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
