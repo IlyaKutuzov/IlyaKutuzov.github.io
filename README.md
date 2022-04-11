@@ -1,5 +1,5 @@
 ## About
-I am a PhD candidte at the Hebrew University of Jerusalem. My PhD project focuses on volatile organic sulfur compounds (VOSC) - these compounds occur naturally in natural gas and are known to degrade the gas/petroleum quality and pose a heatlh risk to exposed workers and nearby communities. Often, these sulfur compounds are accompanied by H<sub>2</sub>S which is highly poisonus, corrosive and explosive.<br/>
+I am a PhD candidte at the Hebrew University of Jerusalem. The project I work on focuses on volatile organic sulfur compounds (VOSC) - these compounds occur naturally in natural gas and are known to degrade the gas/petroleum quality and pose a heatlh risk to exposed workers and nearby communities. Often, these sulfur compounds are accompanied by H<sub>2</sub>S which is highly poisonus, corrosive and explosive.<br/>
 The aims of my project are to identify the various VOSC in natural gases, understand their pathways of formation and possible sinks and finally, provide a VOSC-based-proxy for H<sub>2</sub>S presence and sources within a given reservoir, or even basin.
 
 My CV is available HERE (link), Contact me at ilya.kutuzov@mail.huji.ac.il
@@ -17,7 +17,7 @@ My main interests are:
 * C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ## Other interests
-I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))<br/> I am the manager of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en))
+I manage of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en))<br/> I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
