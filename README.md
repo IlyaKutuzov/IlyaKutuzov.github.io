@@ -21,7 +21,7 @@ I manage of the Mineralogy and Petrology collection at the National Natural Hist
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
-Was invited to speak at the Ministry
+I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) .
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
