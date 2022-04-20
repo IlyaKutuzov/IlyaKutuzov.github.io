@@ -14,8 +14,8 @@ My main interests are:
 * Y.O. Rosenberg, **I. Kutuzov**, A. Amrani: *Sulfurization as a preservation mechanisem for the δ<sup>13</sup>C of biomarkers*. Organic Geochemistry, 125, 66-69, 2018. [DOI](https://doi.org/10.1016/j.orggeochem.2018.08.010)
 * C. Gruber, **I. Kutuzov**, J. Ganor: *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016.[DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
-## Other interests
-I manage of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en))<br/> I am an active member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
+## When not in the lab
+I manage of the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
