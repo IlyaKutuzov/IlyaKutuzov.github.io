@@ -23,9 +23,9 @@ In early 2022 I was invited to speak at the [Israeli Planning Administration (IP
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
-Our laboratory recieved samples of the "tar" that contaminated the Israeli coastline in February 2022. Within a few days I analyzed the contaminant and concluded it is most likely a crude oil rather than tar- therefore implying a different strategy for source-identification and treatment.<br/> My [report](/assets/documents/Feb_2022_oil_spill_report.pdf) was submitted the the Israeli Ministry of Environment (and later to the press) who originally ignored it but after a year [acknowledged](https://www.gov.il/he/departments/publications/reports/opinion-column_rani_amir) the pollutant is indeed a crude oil.
+Our laboratory recieved samples of the "tar" that contaminated the Israeli coastline in February 2022. Within a few days I analyzed the contaminant and concluded it is most likely a crude oil rather than tar- therefore implying a different strategy for source-identification and treatment.<br/> My [report](/assets/documents/Feb_2022_oil_spill_report.pdf) was submitted the the Israeli Ministry of Environment (and later to the [press](https://www.globes.co.il/news/article.aspx?did=1001362101)) who originally ignored it but after a year [acknowledged](https://www.gov.il/he/departments/publications/reports/opinion-column_rani_amir) the pollutant is indeed a crude oil.
 ![Haaretz](https://img.haarets.co.il/img/1.9553108/609573412.jpg)
 Photo from Haaretz
 ### *Study of an oil spill in arid condition*
-Helped guide a student for masters
+I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. Our joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The work was published in Nimrod Arvatz's Msc work.
 ![Evrona](/assets/images/Evrona.jpg )
