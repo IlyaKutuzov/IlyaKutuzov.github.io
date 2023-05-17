@@ -7,6 +7,7 @@ My main interests are:
 - The sulfur and carbon cycles in the subsurface from processes during diagenesis of organic matter up to formation of sulfur-compounds during catagenesis and cracking of fossilized organic matter.
 - Transport of organic pollutants from oil spills to soil, ground water and their interactions with the mineral phase.
 - Source rocks in the Southern Levant region- Many oil and gas occurences in the area are yet to be linked to their source rocks. Identification of source rocks in the area is of major importance for reconstraction of paleoenvironmental conditions on land and at the deposition basin.
+
 ![mclab](/assets/images/mclab.png )
 
 ## Publications
