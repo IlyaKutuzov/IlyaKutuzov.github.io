@@ -25,12 +25,15 @@ I manage the Mineralogy and Petrology collection at the National Natural History
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
 In early 2022 I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) as part of a scientific panel regarding the importance of the Ayalon cave. My presentation focused on the risks faced by the local aquifer due to introduction of organic-contaminants and changing of the aquifer redox state- both of which were expected to occur due to [proposed construction of a railroad line](https://mavat.iplan.gov.il/SV4/1/99000957231/310). The joint scientific effort led [changes](https://new.huji.ac.il/news/%D7%91%D7%96%D7%9B%D7%95%D7%AA-%D7%9E%D7%90%D7%91%D7%A7%D7%9D-%D7%A9%D7%9C-%D7%97%D7%95%D7%A7%D7%A8%D7%99-%D7%95%D7%97%D7%95%D7%A7%D7%A8%D7%95%D7%AA-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%95%D7%9F-%D7%9C%D7%90-%D7%AA%D7%99%D7%A4%D7%92%D7%A2) in the original construction plan and the formation of a long-term monitoring project at the cave and surrounding aquifer.
+
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 Photo by Boaz Langford
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
 Our laboratory recieved samples of the "tar" that contaminated the Israeli coastline in February 2022. Within a few days I analyzed the contaminant and concluded it is most likely a crude oil rather than tar- therefore implying a different strategy for source-identification and treatment.<br/> My [report](/assets/documents/Feb_2022_oil_spill_report.pdf) was submitted the the Israeli Ministry of Environment (and later to the [press](https://www.globes.co.il/news/article.aspx?did=1001362101)) who originally ignored it but after a year [acknowledged](https://www.gov.il/he/departments/publications/reports/opinion-column_rani_amir) the pollutant is indeed a crude oil.
+
 ![Calcalist](/assets/images/tar.jpg)
 Photo from [Calcalist](https://www.calcalist.co.il/local/articles/0,7340,L-3894752,00.html)
 ### *Study of an oil spill in arid condition*
 I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. Our joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The work was published in Nimrod Arvatz's Msc work.
+
 ![Evrona](/assets/images/Evrona.jpg )
