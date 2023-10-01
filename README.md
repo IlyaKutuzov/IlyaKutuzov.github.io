@@ -13,7 +13,7 @@ My main interests are:
 ![mclab](/assets/images/mclab.png )
 
 ## Publications
-* **I. Kutuzov**, D. Wang, C. Cai, A. Amrani; *Tracking the origin of Ordovician natural gas in the Ordos basin using volatile sulfur compounds*. Marine and Petroleum Geology, 157, 106488, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106488)
+* **I. Kutuzov**, D. Wang, C. Cai, A. Amrani; *Tracking the origin of Ordovician natural gas in the Ordos Basin using volatile sulfur compounds*. Marine and Petroleum Geology, 157, 106488, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106488)
 * Q. Xiao, **I. Kutuzov**, W. Said-Ahmad, Y. Duan, S. Cai, A. Amrani; *Effect of thermal maturation on the isotopic compositions of volatile organic sulfur compounds released from a kerogen by hydrous and anhydrous pyrolysis*. Journal of Analytical and Applied Pyrolysis, 171, 105971, 2023. [DOI](https://doi.org/10.1016/j.jaap.2023.105971)
 * **I. Kutuzov**, W. Said-Ahmad, C. Turich, C. Jiang, N. Luu, T. Jacksier, A. Amrani; *The molecular and sulfur isotope distribution of volatile compounds in natural gases and condensates from Alberta, Canada*. Organic Geochemistry, 151, 104129, 2021. [DOI](https://doi.org/10.1016/j.orggeochem.2020.104129)
 * **I. Kutuzov**, Y.O. Rosenberg, A. Bishop, A. Amrani: *The origin of organic sulphur compounds and their impact on the paleoenvironmental record*. In: Wilkes H. (eds) Hydrocarbons, Oils and Lipids: Diversity, Origin, Chemistry and Fate. Handbook of Hydrocarbon and Lipid Microbiology. Springer. 2019. [DOI](https://doi.org/10.1007/978-3-319-54529-5_1-1)
