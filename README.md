@@ -13,6 +13,7 @@ My main interests are:
 ![mclab](/assets/images/mclab.png )
 
 ## Publications
+* **I. Kutuzov**, Q. Xiao, C. Cai, A. Amrani; *Formation of volatile organic sulfur compounds by low thermal maturation of source rocks: A geochemical proxy for natural gas*. Marine and Petroleum Geology, 158, 106531, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106531)
 * **I. Kutuzov**, D. Wang, C. Cai, A. Amrani; *Tracking the origin of Ordovician natural gas in the Ordos Basin using volatile sulfur compounds*. Marine and Petroleum Geology, 157, 106488, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106488)
 * Q. Xiao, **I. Kutuzov**, W. Said-Ahmad, Y. Duan, S. Cai, A. Amrani; *Effect of thermal maturation on the isotopic compositions of volatile organic sulfur compounds released from a kerogen by hydrous and anhydrous pyrolysis*. Journal of Analytical and Applied Pyrolysis, 171, 105971, 2023. [DOI](https://doi.org/10.1016/j.jaap.2023.105971)
 * **I. Kutuzov**, W. Said-Ahmad, C. Turich, C. Jiang, N. Luu, T. Jacksier, A. Amrani; *The molecular and sulfur isotope distribution of volatile compounds in natural gases and condensates from Alberta, Canada*. Organic Geochemistry, 151, 104129, 2021. [DOI](https://doi.org/10.1016/j.orggeochem.2020.104129)
