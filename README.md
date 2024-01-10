@@ -1,6 +1,6 @@
 ## About
-I am a PhD candidte at the Hebrew University of Jerusalem. My project focuses on volatile organic sulfur compounds (VOSC) - these compounds occur naturally in natural gas and are known to degrade the gas/petroleum quality and pose a heatlh risk to exposed workers and nearby communities. Often, these sulfur compounds are accompanied by H<sub>2</sub>S which is highly poisonus, corrosive and explosive.<br/>
-The aims of my project are to identify the various VOSC in natural gases, understand their pathways of formation and possible sinks and finally, provide a VOSC-based-proxy for H<sub>2</sub>S presence and sources within a given reservoir, or even basin.
+I am a recent PhD graduate from the Hebrew University of Jerusalem. My project focused on volatile organic sulfur compounds (VOSC) - these compounds occur naturally in natural gas and are known to degrade the gas/petroleum quality and pose a heatlh risk to exposed workers and nearby communities. Often, these sulfur compounds are accompanied by H<sub>2</sub>S which is highly poisonus, corrosive and explosive.<br/>
+In my PhD project I characterized the different VOSC that occur in natural gases, proposed different pathways for their formation and developed a set of VOSC-based geochemical proxies for correlating gas-source rocks and identification of H<sub>2</sub>S presence and sources within a given reservoir, or even basin.
 ![s_model](/assets/images/s_model.png )
 
 
