@@ -42,3 +42,4 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 ![Evrona](/assets/images/Evrona.jpg )
 ## Downloads
 * My [Master's thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale
+* A Google Earth map of all [oil and gas boreholes drilled in Israel and Sinai](/assets/datasets/Oil and Gas Wells in Israel and Sinai_v1.kmz). All standard data (location, depth etc...) is available when clicking each borehole. In addition, publications and reports of relevant wells are referenced therein.
