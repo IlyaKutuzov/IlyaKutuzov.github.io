@@ -41,4 +41,4 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 
 ![Evrona](/assets/images/Evrona.jpg )
 ## Downloads
-* My Master's [thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale
+* My [Master's thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale
