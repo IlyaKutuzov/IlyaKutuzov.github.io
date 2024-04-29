@@ -41,3 +41,5 @@ Photo from [Calcalist](https://www.calcalist.co.il/local/articles/0,7340,L-38947
 I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. Our joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The work was published in Nimrod Arvatz's Msc work.
 
 ![Evrona](/assets/images/Evrona.jpg )
+## Downloads
+* My Master's [thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale
