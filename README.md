@@ -4,7 +4,6 @@ In my PhD project I characterized the different VOSC that occur in natural gases
 ![s_model](/assets/images/s_model.png )
 
 ## Research interests
-My main interests are:
 - The sulfur and carbon cycles in the subsurface from processes during diagenesis of organic matter up to formation of sulfur-compounds during catagenesis and cracking of fossilized organic matter.
 - Abiotic synthesis of sulfur compounds and their role in the emergence of life on Earth.
 - Evolution of biomarkers in organic matter from the Paleozoic Era with emphasis on anoxic environments.
