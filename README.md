@@ -12,6 +12,7 @@ In my PhD project I characterized the different VOSC that occur in natural gases
 ![mclab](/assets/images/mclab.png )
 
 ## Publications
+* **I. Kutuzov**, Q. Xiao, A. Amrani; *Gas-phase reaction of CH4 and H2S – Evidence from pyrolysis experiments and case study from the Sichuan Basin*. Organic Geochemistry, 194, 104826, 2024. [DOI](https://doi.org/10.1016/j.orggeochem.2024.104826)
 * M. Rubin-Blum, Y. Yudkovsky, S. Marmen, O. Raveh, A. Amrani, **I. Kutuzov**, T. Guy-Haim, E. Rahav; *Tar patties are hotspots of hydrocarbon turnover and nitrogen fixation during a nearshore pollution event in the oligotrophic southeastern Mediterranean Sea*. Marine Pollution Bulletin, 197, 115747, 2023. [DOI](https://doi.org/10.1016/j.marpolbul.2023.115747)
 * **I. Kutuzov**, Q. Xiao, C. Cai, A. Amrani; *Formation of volatile organic sulfur compounds by low thermal maturation of source rocks: A geochemical proxy for natural gas*. Marine and Petroleum Geology, 158, 106531, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106531)
 * **I. Kutuzov**, D. Wang, C. Cai, A. Amrani; *Tracking the origin of Ordovician natural gas in the Ordos Basin using volatile sulfur compounds*. Marine and Petroleum Geology, 157, 106488, 2023. [DOI](https://doi.org/10.1016/j.marpetgeo.2023.106488)
