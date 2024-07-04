@@ -1,7 +1,8 @@
 ## About
 I am a lecturer and course coordinator at [The Open University of Israel](https://www.openu.ac.il/en/pages/default.aspx) and performing research at the Institute of Earth Sciences at the Hebrew University of Jerusalem. My research project focuses on the formation of volatile organic sulfur compounds (VOSC) by abiotic synthesis. Better understanding the formation mechanisms of VOSC may provide insights for the emergance of life on Earth as some VOSC are considered a precursor for amino acids in the prebiotic Earth.<br/>
 
-**I am currently looking for a post-doc position! Please feel free to reach out to me if you are looking for a postdoc.**
+**I am currently looking for a post-doc position! Please feel free to reach out to me if you are looking for a postdoc.**<br/>
+
 ![s_model](/assets/images/s_model.png )
 
 ## Research interests
