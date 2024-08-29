@@ -39,7 +39,7 @@ Our laboratory recieved samples of the "tar" that contaminated the Israeli coast
 ![Calcalist](/assets/images/tar.jpg)
 Photo from [Calcalist](https://www.calcalist.co.il/local/articles/0,7340,L-3894752,00.html)
 ### *Study of an oil spill in arid condition*
-I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. Our joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The work was published in Nimrod Arvatz's [Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
+I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. Our joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The work was published in [Nimrod Arvatz's Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
 
 ![Evrona](/assets/images/Evrona.jpg )
 ## Downloads
