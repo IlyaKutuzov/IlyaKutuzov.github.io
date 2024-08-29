@@ -25,7 +25,7 @@ I am a lecturer and course coordinator at [The Open University of Israel](https:
 * C. Gruber, **I. Kutuzov**, J. Ganor; *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016. [DOI](https://doi.org/10.1016/j.gca.2016.04.046)
 
 ## When not in the lab
-I manage the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
+I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
 ### *Saving Ayalon cave*
