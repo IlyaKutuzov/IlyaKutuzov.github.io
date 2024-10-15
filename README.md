@@ -9,7 +9,6 @@ I am a lecturer and course coordinator at [The Open University of Israel](https:
 - The sulfur and carbon cycles in the subsurface from processes during diagenesis of organic matter up to formation of sulfur-compounds during catagenesis and cracking of fossilized organic matter.
 - Abiotic synthesis of organic sulfur compounds and their role in the emergence of life on Earth.
 - Evolution of biomarkers in organic matter from the Paleozoic Era with emphasis on anoxic environments.
-- Transport of organic pollutants from oil spills to soil, ground water and their interactions with the mineral phase.
 
 ![mclab](/assets/images/mclab.png )
 
