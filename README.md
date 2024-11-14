@@ -29,7 +29,7 @@ I am a multidsciplinary Earth scientist and geochemist with passion for combinin
 I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
-### *Saving Ayalon cave*
+### *Protecting the Ayalon cave*
 In late 2021 I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) as part of a scientific panel focused on the importance of the Ayalon cave. My presentation highlighted the risks faced by the local aquifer due to introduction of organic-contaminants and changing of the aquifer redox state- both of which were expected to occur due to [proposed construction of a railroad line](https://mavat.iplan.gov.il/SV4/1/99000957231/310). The joint scientific effort led to [changes](https://new.huji.ac.il/news/%D7%91%D7%96%D7%9B%D7%95%D7%AA-%D7%9E%D7%90%D7%91%D7%A7%D7%9D-%D7%A9%D7%9C-%D7%97%D7%95%D7%A7%D7%A8%D7%99-%D7%95%D7%97%D7%95%D7%A7%D7%A8%D7%95%D7%AA-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%95%D7%9F-%D7%9C%D7%90-%D7%AA%D7%99%D7%A4%D7%92%D7%A2) in the original construction plan and the formation of a long-term monitoring project at the cave and surrounding aquifer. Detailed story of this conservation campaign was [publised](https://doi.org/10.1002/inc3.20) in *Integrative Conservation*.
 
 ![ayalon cave](/assets/images/Ayalontest.jpg )
