@@ -12,7 +12,7 @@ I am a multidsciplinary Earth scientist and geochemist with passion for combinin
 
 ![mclab](/assets/images/mclab.png )
 
-## Publications
+## Publications [On Scholar](https://scholar.google.com/citations?user=vfNh3jkAAAAJ&hl=en)
 *  C. Cai, **I. Kutuzov**, W. Mei, D. Wang, B. Luo, S. Huang, B. He, A. Amrani; *Chemical, carbon and sulfur isotopic compositions constrain the origin of Upper Carboniferous-Lower Triassic gases in eastern Sichuan Basin, SW China*. Science China Earth Sciences, 2024. [DOI](https://doi.org/10.1007/s11430-024-1368-0)
 *  D. Wang, **I. Kutuzov**, H. Zhang, Z. Cao, Q. Wang, A. Amrani, C. Cai; *Application of sulfur isotopes of volatile organic sulfur compounds to determine the natural gas secondary alterations and possible sources in the Tarim Basin, NW China*. Marine and Petroleum Geology, 169, 107078, 2024. [DOI](https://doi.org/10.1016/j.marpetgeo.2024.107078)
 * **I. Kutuzov**, Q. Xiao, A. Amrani; *Gas-phase reaction of CH<sub>4</sub> and H<sub>2</sub>S – Evidence from pyrolysis experiments and case study from the Sichuan Basin*. Organic Geochemistry, 194, 104826, 2024. [DOI](https://doi.org/10.1016/j.orggeochem.2024.104826)
