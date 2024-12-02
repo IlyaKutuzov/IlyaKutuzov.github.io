@@ -12,7 +12,7 @@ I am a multidsciplinary Earth scientist and geochemist with passion for combinin
 
 ![mclab](/assets/images/mclab.png )
 
-## Publications [On Scholar](https://scholar.google.com/citations?user=vfNh3jkAAAAJ&hl=en)
+## Publications
 *  C. Cai, **I. Kutuzov**, W. Mei, D. Wang, B. Luo, S. Huang, B. He, A. Amrani; *Chemical, carbon and sulfur isotopic compositions constrain the origin of Upper Carboniferous-Lower Triassic gases in eastern Sichuan Basin, SW China*. Science China Earth Sciences, 2024. [DOI](https://doi.org/10.1007/s11430-024-1368-0)
 *  D. Wang, **I. Kutuzov**, H. Zhang, Z. Cao, Q. Wang, A. Amrani, C. Cai; *Application of sulfur isotopes of volatile organic sulfur compounds to determine the natural gas secondary alterations and possible sources in the Tarim Basin, NW China*. Marine and Petroleum Geology, 169, 107078, 2024. [DOI](https://doi.org/10.1016/j.marpetgeo.2024.107078)
 * **I. Kutuzov**, Q. Xiao, A. Amrani; *Gas-phase reaction of CH<sub>4</sub> and H<sub>2</sub>S – Evidence from pyrolysis experiments and case study from the Sichuan Basin*. Organic Geochemistry, 194, 104826, 2024. [DOI](https://doi.org/10.1016/j.orggeochem.2024.104826)
@@ -24,6 +24,8 @@ I am a multidsciplinary Earth scientist and geochemist with passion for combinin
 * **I. Kutuzov**, Y.O. Rosenberg, A. Bishop, A. Amrani; *The origin of organic sulphur compounds and their impact on the paleoenvironmental record*. In: Wilkes H. (eds) Hydrocarbons, Oils and Lipids: Diversity, Origin, Chemistry and Fate. Handbook of Hydrocarbon and Lipid Microbiology. Springer. 2019. [DOI](https://doi.org/10.1007/978-3-319-54529-5_1-1)
 * Y.O. Rosenberg, **I. Kutuzov**, A. Amrani; *Sulfurization as a preservation mechanisem for the δ<sup>13</sup>C of biomarkers*. Organic Geochemistry, 125, 66-69, 2018. [DOI](https://doi.org/10.1016/j.orggeochem.2018.08.010)
 * C. Gruber, **I. Kutuzov**, J. Ganor; *The combined effect of temperature and pH on albite dissolution rate under far-from-equilibrium conditions*. Geochimica et Cosmochimica Acta, 186, 154-167, 2016. [DOI](https://doi.org/10.1016/j.gca.2016.04.046)
+
+[Visit my Google Scholar page](https://scholar.google.com/citations?user=vfNh3jkAAAAJ&hl=en)
 
 ## When not in the lab
 I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
