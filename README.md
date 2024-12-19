@@ -28,7 +28,7 @@ I am a multidsciplinary Earth scientist and geochemist with passion for combinin
 [Visit my Google Scholar page](https://scholar.google.com/citations?user=vfNh3jkAAAAJ&hl=en)
 
 ## When not in the lab
-I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp) cave) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
+I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
 ### *Protecting the Ayalon cave*
