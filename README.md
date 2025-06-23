@@ -55,5 +55,5 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 <iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" width="350" height="400" frameborder= "0" position:relative></iframe>
 All standard data (location, depth etc...) is available when clicking each borehole. In addition, publications and reports of relevant wells are referenced therein.
 * My [PhD dissertation](https://drive.google.com/file/d/1vLeFpJb09PqgAnO9EWyKDkwDVE9jTdT4/view?usp=sharing) on volatile organic sulfur compounds in natural gas.
-Interested in my PhD work but dont want to read the whole thing? Check out my thesis defence talk/*viva voce*:
+Interested in my PhD work but dont want to read the whole thing? Check out my thesis defence talk:
 <iframe width="350" height="400" src="https://www.youtube.com/embed/kDvqQ1TuX6I?si=Wrd638OME4niBZDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
