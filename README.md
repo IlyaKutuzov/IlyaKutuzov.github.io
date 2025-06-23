@@ -55,5 +55,5 @@ Interested in my PhD work but dont want to read the whole thing? Check out my [t
 <iframe width="350" height="400" src="https://www.youtube.com/embed/kDvqQ1TuX6I?si=Wrd638OME4niBZDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * My [Master's thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale.
 * A map of [oil and gas boreholes drilled in Israel and Northern Sinai](/assets/datasets/Oil_Gas_Wells_Israel_Sinai_v1.kmz):
-<iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" width="350" height="400" frameborder= "0" position:relative></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" width="350" height="400" frameborder= "0" align=middle position:relative></iframe>
 All standard data (location, depth etc...) is available when clicking each borehole. In addition, publications and reports of relevant wells are referenced therein.
