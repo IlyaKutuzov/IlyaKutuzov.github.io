@@ -54,6 +54,7 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 * My [PhD dissertation](https://drive.google.com/file/d/1vLeFpJb09PqgAnO9EWyKDkwDVE9jTdT4/view?usp=sharing) on volatile organic sulfur compounds in natural gas.
 Interested in my PhD work but dont want to read the whole thing? Check out my thesis defence talk:
 <iframe width="350" height="400" src="https://www.youtube.com/embed/kDvqQ1TuX6I?si=Wrd638OME4niBZDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * [Oil Groups in the Continental Margin and Onshore Israel- Geochemical Characterization](/assets/documents/Oil Groups in the Continental Margin and Onshore Israel- Geochemical Characterization.pdf)
 * A map of [oil and gas boreholes drilled in Israel and Northern Sinai](/assets/datasets/Oil_Gas_Wells_Israel_Sinai_v1.kmz):
 <iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" width="350" height="400" frameborder= "0" position:relative></iframe>
