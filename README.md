@@ -55,7 +55,7 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 Interested in my PhD work but dont want to read the whole thing? Check out my thesis defence talk:
 <iframe width="350" height="400" src="https://www.youtube.com/embed/kDvqQ1TuX6I?si=Wrd638OME4niBZDA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* [Oil Groups in the Continental Margin and Onshore Israel- Geochemical Characterization](/assets/documents/Oil Groups in the Continental Margin and Onshore Israel- Geochemical Characterization.pdf), a report prepared for the Israeli Ministry of Energy.
-* Wonder why Israel is the holey land? Check out this map of [oil and gas boreholes drilled in Israel and Northern Sinai](/assets/datasets/Oil_Gas_Wells_Israel_Sinai_v1.kmz):
+* Wonder why Israel is called "the holey land"? Check out this map of [oil and gas boreholes drilled in Israel and Northern Sinai](/assets/datasets/Oil_Gas_Wells_Israel_Sinai_v1.kmz):
 <iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" width="350" height="400" frameborder= "0" position:relative></iframe>
 All standard data (location, depth etc...) is available when clicking each borehole. In addition, publications and reports of relevant wells are referenced therein.
+* You have passion for oil geochemistry and want to know what oil was found in Israel and where does it come from? Check out my report on the [Geochemical Characterization of Oil Groups in the Continental Margin and Onshore Israel](/assets/documents/Oil Groups in the Continental Margin and Onshore Israel- Geochemical Characterization.pdf).
