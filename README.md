@@ -32,23 +32,23 @@ I am a multidisciplinary Earth scientist and geochemist with passion for combini
 I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Achievments and things I am proud of
-### *Protecting the Ayalon cave*
-In late 2021 I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) as part of a scientific panel focused on the importance of the Ayalon cave. My presentation highlighted the risks faced by the local aquifer due to introduction of organic-contaminants, heavy metals and subsequent change of the aquifer redox state- all of which were expected to occur due to [proposed construction of a railroad line and introduction of runoff directly into the groundwater](https://mavat.iplan.gov.il/SV4/1/99000957231/310). The joint scientific effort led to [changes](https://new.huji.ac.il/news/%D7%91%D7%96%D7%9B%D7%95%D7%AA-%D7%9E%D7%90%D7%91%D7%A7%D7%9D-%D7%A9%D7%9C-%D7%97%D7%95%D7%A7%D7%A8%D7%99-%D7%95%D7%97%D7%95%D7%A7%D7%A8%D7%95%D7%AA-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%95%D7%9F-%D7%9C%D7%90-%D7%AA%D7%99%D7%A4%D7%92%D7%A2) in the original construction plan and the formation of a long-term monitoring project at the cave and surrounding aquifer. Detailed story of this conservation campaign was [publised](https://doi.org/10.1002/inc3.20) in *Integrative Conservation*.
-
-![ayalon cave](/assets/images/Ayalontest.jpg )
-Photo by [Boaz Langford](https://en.earth.huji.ac.il/people/boaz-angford)
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
 In February 2022, amidst the covid pandemic, the Israeli coastline was covered by vast quantities of tar-like pollutant. Rapid sampling and subsequent molecular and biomerker analysis allowed me to conclude, within days of the pollution event, the pollutant is most likely a crude oil rather than tar- therefore implying a different strategy for source-identification and treatment.<br/> My findings were [submitted](/assets/documents/Feb_2022_oil_spill_report.pdf) to the Israeli Ministry of Environment (and later to the [press](https://www.globes.co.il/news/article.aspx?did=1001362101)), yet were originally ignored. Following a year, the Israeli Ministry of Environment published the result of their analysis and [acknowledged](https://www.gov.il/he/departments/publications/reports/opinion-column_rani_amir) the pollutant is indeed a crude oil.
 
 ![Calcalist](/assets/images/tar.jpg)
 Photo from [Calcalist](https://www.calcalist.co.il/local/articles/0,7340,L-3894752,00.html)
+### *Protecting the Ayalon cave*
+In late 2021 I was invited to speak at the [Israeli Planning Administration (IPA)](https://www.gov.il/en/departments/iplan/govil-landing-page) as part of a scientific panel focused on the importance of the Ayalon cave. My presentation highlighted the risks faced by the local aquifer due to introduction of organic-contaminants, heavy metals and subsequent change of the aquifer redox state- all of which were expected to occur due to [proposed construction of a railroad line and introduction of runoff directly into the groundwater](https://mavat.iplan.gov.il/SV4/1/99000957231/310). The joint scientific effort led to [changes](https://new.huji.ac.il/news/%D7%91%D7%96%D7%9B%D7%95%D7%AA-%D7%9E%D7%90%D7%91%D7%A7%D7%9D-%D7%A9%D7%9C-%D7%97%D7%95%D7%A7%D7%A8%D7%99-%D7%95%D7%97%D7%95%D7%A7%D7%A8%D7%95%D7%AA-%D7%94%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%94-%D7%94%D7%A2%D7%91%D7%A8%D7%99%D7%AA-%D7%9E%D7%A2%D7%A8%D7%AA-%D7%90%D7%99%D7%99%D7%9C%D7%95%D7%9F-%D7%9C%D7%90-%D7%AA%D7%99%D7%A4%D7%92%D7%A2) in the original construction plan and the formation of a long-term monitoring project at the cave and surrounding aquifer. Detailed story of this conservation campaign was [publised](https://doi.org/10.1002/inc3.20) in *Integrative Conservation*.
+
+![ayalon cave](/assets/images/Ayalontest.jpg )
+Photo by [Boaz Langford](https://en.earth.huji.ac.il/people/boaz-angford)
 ### *Study of an oil spill in arid condition*
 I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. The groups's joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The findings of this multi-year project were published in [Nimrod Arvatz's Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
 
 ![Evrona](/assets/images/Evrona.jpg )
 ### *Honors and awards*
-![Brown](/assets/images/Brown_F.jpg )
 ![IMOG](/assets/images/IMOG_F.jpg )
+![Brown](/assets/images/Brown_F.jpg )
 ## Resources
 * My [Master's thesis](/assets/documents/MSc_Thesis_IK.pdf) on the physical and chemical propeties of early stage, immature oils, produced from the Israeli oil shale.
 * My [PhD dissertation](https://drive.google.com/file/d/1vLeFpJb09PqgAnO9EWyKDkwDVE9jTdT4/view?usp=sharing) on volatile organic sulfur compounds in natural gas.
