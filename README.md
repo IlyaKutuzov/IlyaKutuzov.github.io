@@ -51,4 +51,4 @@ I was a part of a group that studied the chemistry of oil spilled at the Evrona 
 ![IMOG](/assets/images/IMOG_F.jpg )
 ![Brown](/assets/images/Brown_F.jpg )
 
-## For Resources and Downloads click [here](https://ilyakutuzov.github.io/resources) 
+## For Resources and downloads click [here](https://ilyakutuzov.github.io/resources) 
