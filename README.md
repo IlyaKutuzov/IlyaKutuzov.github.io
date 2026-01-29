@@ -2,7 +2,7 @@
 ## About
 I am a multidisciplinary Earth scientist and geochemist with passion for combining experimental laboratory work with field work. My current research focuses on the formation of volatile organic sulfur compounds (VOSC) by abiotic synthesis. Identfiyng abiotic formation mechanisms of VOSC may provide insights for the emergence of life on Earth as some VOSC were demonstrated to aid the formation of peptide bonds. Alongside my research, I teach geology courses at the Open University of Israel. <br/>
 
-**I am currently looking for a job or a post-doc. Got an offer? reach out via email**<br/>
+**I am currently looking for a post-doc. Got a position? reach out via email**<br/>
 
 ![s_model](/assets/images/s_model.png )
 
@@ -14,6 +14,7 @@ I am a multidisciplinary Earth scientist and geochemist with passion for combini
 ![mclab](/assets/images/mclab.png )
 
 ## Publications
+* B. Langford, **I. Kutuzov**, A. Frumkin, E. Ben-Yosef; *Copper mines in the Araba Valley (SE Israel & SW Jordan): Spatial distribution, site typology and new discoveries*. <u>Journal of Arid Environments</u>, 233, 105557, 2026. [DOI](https://doi.org/10.1016/j.jaridenv.2026.105557)
 *  B. Langford, A. Vaks, **I. Kutuzov**, J. Keinan, T. Golan, T. Zilberman, G. Yasur, N. Morag, Y. Ebert, O. Gaster, R. Ben-Yair, M. Ullman, A. Frumkin; *From hypogenic to biogenic speleogenesis in semi-arid climate: Bat guano-driven carbonate weathering and cave modification in Chariton Cave, Israel*. <u>Geomorphology</u>, 483, 109815, 2025. [DOI](https://doi.org/10.1016/j.geomorph.2025.109815)
 *  C. Cai, **I. Kutuzov**, W. Mei, D. Wang, B. Luo, S. Huang, B. He, A. Amrani; *Chemical, carbon and sulfur isotopic compositions constrain the origin of Upper Carboniferous-Lower Triassic gases in eastern Sichuan Basin, SW China*. <u>Science China Earth Sciences</u>, 67, 3169-3185, 2024. [DOI](https://doi.org/10.1007/s11430-024-1368-0)
 *  D. Wang, **I. Kutuzov**, H. Zhang, Z. Cao, Q. Wang, A. Amrani, C. Cai; *Application of sulfur isotopes of volatile organic sulfur compounds to determine the natural gas secondary alterations and possible sources in the Tarim Basin, NW China*. <u>Marine and Petroleum Geology</u>, 169, 107078, 2024. [DOI](https://doi.org/10.1016/j.marpetgeo.2024.107078)
