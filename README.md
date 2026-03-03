@@ -30,8 +30,6 @@ I am a multidisciplinary Earth scientist and geochemist with passion for combini
 
 [Visit my Google Scholar page](https://scholar.google.com/citations?user=vfNh3jkAAAAJ&hl=en)
 
-## When not in the lab
-I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
 ## Environmental Impact & Contributions
 ### *Identification of a pollutant on the Israeli coast ("Tar pollution")*
@@ -48,6 +46,10 @@ Photo by [Boaz Langford](https://en.earth.huji.ac.il/people/boaz-angford)
 I was part of a research group that studied the chemistry of the oil spilled at the Evrona Nature Reserve. The group's joint effort led to the identification of a previously unknown pollution event in the area and helped in understanding the mechanisms of oil degradation in the desert soil under arid conditions. The findings of this multi-year project were published in [Nimrod Arvatz's Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
 
 ![Evrona](/assets/images/Evrona.jpg )
+
+## When not in the lab
+I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
+
 ### *Honors and awards*
 ![IMOG](/assets/images/IMOG_F.jpg )
 ![Brown](/assets/images/Brown_F.jpg )
