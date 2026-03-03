@@ -45,7 +45,7 @@ In late 2021, I was invited to speak at the [Israeli Planning Administration (IP
 ![ayalon cave](/assets/images/Ayalontest.jpg )
 Photo by [Boaz Langford](https://en.earth.huji.ac.il/people/boaz-angford)
 ### *Study of an oil spill in arid condition*
-I was a part of a group that studied the chemistry of oil spilled at the Evrona Nature Reserve. The groups's joint effort led to identification of previously unknown pollution event at the area and helped understand the mechanisms of oil degredation in the desert soil under arid conditions. The findings of this multi-year project were published in [Nimrod Arvatz's Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
+I was part of a research group that studied the chemistry of the oil spilled at the Evrona Nature Reserve. The group's joint effort led to the identification of a previously unknown pollution event in the area and helped in understanding the mechanisms of oil degradation in the desert soil under arid conditions. The findings of this multi-year project were published in [Nimrod Arvatz's Msc work](https://primo.bgu.ac.il/discovery/delivery/972BGU_INST:972BGU/12265289500004361).
 
 ![Evrona](/assets/images/Evrona.jpg )
 ### *Honors and awards*
