@@ -9,7 +9,7 @@ Interested in my doctoral research but don't want to read the whole thing? Check
 
 * Ever wonder why Israel is called 'the holey land'? Check out this map of [oil and gas boreholes drilled in Israel and Northern Sinai](/assets/datasets/Oil_Gas_Wells_Israel_Sinai_v1.kmz):
 <div class="map-container">
-  <iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F" allowfullscreen></iframe>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1xkDE7TJ5ZBdhaFfaBmDmbV-BQrbVDc8&ehbc=2E312F&noprof=1" allowfullscreen></iframe>
 </div>
 
 All standard data (location, depth etc.) are available when clicking each borehole. In addition, publications and reports of relevant wells are linked within the map.
