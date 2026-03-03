@@ -50,7 +50,7 @@ I was part of a research group that studied the chemistry of the oil spilled at 
 ## When not in the lab
 I volunteer at the Mineralogy and Petrology collection at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and take part in various cave surveys (for example in the [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)) as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/))
 
-### *Honors and awards*
+## Honors and awards
 ![IMOG](/assets/images/IMOG_F.jpg )
 ![Brown](/assets/images/Brown_F.jpg )
 
