@@ -1,8 +1,7 @@
  
 ## About
-I am a multidisciplinary Earth scientist and geochemist with a passion for combining experimental laboratory work with fieldwork. My current research focuses on the formation of volatile organic sulfur compounds (VOSC) by abiotic synthesis. Identifying abiotic formation mechanisms of VOSC may provide insights into the emergence of life on Earth as some VOSC have been demonstrated to aid the formation of peptide bonds. Alongside my research, I teach geology courses at the Open University of Israel. <br/>
+I am a multidisciplinary Earth scientist and geochemist with a passion for combining experimental laboratory work with fieldwork. My current research focuses on the formation of volatile organic sulfur compounds (VOSC) by abiotic synthesis. Identifying abiotic formation mechanisms of VOSC may provide insights into the emergence of life on Earth as some VOSC have been demonstrated to aid the formation of peptide bonds. Alongside my research, I teach geology courses at the Open University of Israel and look for a postdoc position abroad. <br/>
 
-**I am currently open for new opportunities in both academia and industry. Please feel free to reach out via email to discuss how my experience can contribute to your team's goals**<br/>
 
 ![s_model](/assets/images/s_model.png )
 
