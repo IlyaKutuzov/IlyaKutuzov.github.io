@@ -47,7 +47,7 @@ I was part of a research group that studied the chemistry of the oil spilled at 
 ![Evrona](/assets/images/Evrona.jpg )
 
 ## Community & Academic Outreach
-I actively volunteer with the Mineralogy and Petrology collections at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and conduct speleological surveys—including work in [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)—as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/)).
+I actively volunteer with the Mineralogy and Petrology collections at the National Natural History Collections ([NNHC](https://nnhc.huji.ac.il/?lang=en)) and conduct speleological surveys-including work in [Levana Cave](https://youtu.be/c5MqvLElpGU?si=L0QZ_CuWPZZLStMp)-as a member of the Israeli Cave Research Center ([ICRC](https://www.malham.info/)).
 
 ## Honors and awards
 ![IMOG](/assets/images/IMOG_F.jpg )
