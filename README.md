@@ -1,6 +1,7 @@
  
 ## About
-I am an environmental chemist passionate about combining experimental laboratory work with fieldwork. I am currently analyzing data and preparing manuscripts from my recent research on the abiotic formation of volatile organic sulfur compounds (VOSC) in aqueous solutions. Identifying these abiotic pathways provides critical insights into early Earth processes and the origin of life, as specific VOSC have been shown to facilitate peptide bond formation. Alongside my research, I serve as an adjunct lecturer at the Open University of Israel and am actively seeking a postdoc position abroad. <br/>
+I am an environmental chemist passionate about combining experimental laboratory work with fieldwork. I am currently analyzing data and preparing manuscripts from my recent research on the abiotic formation of volatile organic sulfur compounds (VOSC) in aqueous solutions. Identifying these abiotic pathways provides critical insights into early Earth processes and the origin of life, as specific VOSC have been shown to facilitate peptide bond formation.
+Alongside my research, I serve as an adjunct lecturer at the Open University of Israel. <br/>
 
 
 ![s_model](/assets/images/s_model.png )
